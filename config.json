@@ -1,0 +1,8 @@
+{
+    "auth":"",
+    "secret":"",
+    "clientID":"2c6acb35fc5448699b2b48be011b9dfd",
+    "mindeal":0.3,
+    "minprice":15,
+    "maxprice":200
+}
